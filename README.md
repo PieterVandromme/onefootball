@@ -34,6 +34,6 @@ Then run it:
 docker run -e PASSWORD=onefoot -p 8787:8787 onefootball
 ```
 
-You can now connect to http://localhost:8787/ where you'll be greeted by the Rstudio login page. Use `rstudio` as the username and `onefoot` as the password.
+You can now connect to http://localhost:8787/ where you'll be greeted by the Rstudio login page. Use `rstudio` as the username and `onefoot` as the password. The `data` and `analysis` folders will be included in the Docker/Rstudio image.
 
 
