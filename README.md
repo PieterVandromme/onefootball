@@ -11,7 +11,7 @@ The project is organized as:
 * analysis
     + `analysis.R`
     + `assignment.Rmd`
-    + `assignment.html` (html output)
+    + [`assignment.md`](./analysis/assignment.md) <- click here to see the results of the assignment in a formatted way.
 * `Dockerfile`
 * `README.md`
 * `run-notebook.sh`
